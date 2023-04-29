@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  
 |-----------|-------------|:-------------:|
-| LP2       | Store sales - Time Series Forecast    |  [https://www.linkedin.com/pulse/indian-startup-ecosystem-analysis-project-gideon-dadzie](/) | 
+| LP2       | Store sales - Time Series Forecast    |  [https://www.linkedin.com/pulse/store-sales-analysis-forecast-gideon-dadzie](/) | 
 --------------------------------------------------
 
 ## Project Description
