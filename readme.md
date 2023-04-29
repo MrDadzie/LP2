@@ -15,7 +15,7 @@ This stage proceeds after the business and data understanding phase. The merged 
 * Time Series Analysis
 In this stage, the sales trend with time was looked into. Insights were drawn to highlight the seasons of high  and low sales throughout the data. The impact of an earthquake that happened was also accessed using visualizzations in python. 
 
-*	Time Series Forecasting 
+*	Time Series Forecasting -Summary 
 The summary of the model is shown below:
 
 | Model      | MSE       | RMSE|  RMSLE|
