@@ -11,6 +11,7 @@
 The project is divided in three stages: 
 *	Initial Exploratory Data Analysis.
 This stage proceeds after the business and data understanding phase. The merged data was checked for missing values. Depending on the nature of the values missing, the right approach is adopted to replace or do away with the missing values. Then, relevant questions are asked to understand the sales trends and business operation of Favorita.
+P
 
 * Time Series Analysis
 In this stage, the sales trend with time was looked into. Insights were drawn to highlight the seasons of high  and low sales throughout the data. The impact of an earthquake that happened was also accessed using visualizzations in python. 
